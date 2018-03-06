@@ -1,0 +1,8 @@
+[master]
+sfo.r3lik.com
+
+[node]
+
+[kube-cluster:children]
+master
+node
